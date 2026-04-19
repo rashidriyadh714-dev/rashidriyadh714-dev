@@ -175,7 +175,7 @@ Power BI, Power Query, DAX, Data Modelling, GitHub
 ## 🤝 Let’s Connect
 
 - GitHub: [rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rashid-riyadh)
+- LinkedIn: [rashid-riyadh](https://www.linkedin.com/in/rashid-riyadh)
 
 ---
 
