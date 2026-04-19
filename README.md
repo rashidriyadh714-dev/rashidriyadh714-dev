@@ -35,7 +35,6 @@ I enjoy building projects that solve **real-world problems**, especially in area
 
 ## 🧠 Core Strengths
 
-- Designing and building **full-stack web applications**
 - Developing **Java desktop applications**
 - Creating **machine learning solutions** for practical use cases
 - Building **interactive dashboards** for data-driven decision-making
@@ -49,8 +48,6 @@ I enjoy building projects that solve **real-world problems**, especially in area
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frameworks & Tools
