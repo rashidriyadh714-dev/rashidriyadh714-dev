@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://huggingface.co/mohrashid" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Profile&message=Hugging%20Face&color=FFD21E&labelColor=111827&style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Profile" />
   </a>
