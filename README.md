@@ -110,7 +110,7 @@ React 18, TypeScript, Vite, Tailwind CSS, React Query, Express.js, Drizzle ORM, 
 **Tech Stack**  
 Python, Scikit-learn, XGBoost, Pandas, Streamlit, SHAP, Git
 
-📂 **Repository:** [Add your ML project link here](https://github.com/yourusername/diabetes-risk-prediction-system)
+📂 **Repository:** [Add your ML project link here](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost.git)
 
 ---
 
@@ -168,7 +168,7 @@ Power BI, Power Query, DAX, Data Modelling, GitHub
 ## 🤝 Let’s Connect
 
 - GitHub: [rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
-- LinkedIn: [Add your LinkedIn here](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/rashid-riyadh)
 - Email: your.email@example.com
 
 ---
