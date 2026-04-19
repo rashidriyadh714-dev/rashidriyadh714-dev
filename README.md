@@ -71,13 +71,16 @@ I enjoy building projects that solve **real-world problems**, especially in area
 </p>
 
 ### Machine Learning & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SHAP-7B1FA2?style=for-the-badge" alt="SHAP" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
-  <img src="https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge" alt="Power Query" />
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=ML&message=Scikit--learn&color=F7931E&labelColor=111827&style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/static/v1?label=ML&message=XGBoost&color=EC6B23&labelColor=111827&style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/static/v1?label=ML&message=Random%20Forest&color=228B22&labelColor=111827&style=for-the-badge" alt="Random Forest" />
+  <img src="https://img.shields.io/static/v1?label=ML&message=Pandas&color=150458&labelColor=111827&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/static/v1?label=ML&message=SHAP&color=7B1FA2&labelColor=111827&style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/static/v1?label=BI&message=DAX&color=F2C811&labelColor=111827&style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/static/v1?label=BI&message=Power%20Query&color=2B579A&labelColor=111827&style=for-the-badge" alt="Power Query" />
+  <img src="https://img.shields.io/static/v1?label=Platform&message=Hugging%20Face&color=FFD21E&labelColor=111827&style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/static/v1?label=Platform&message=Kaggle&color=20BEFF&labelColor=111827&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
 ---
