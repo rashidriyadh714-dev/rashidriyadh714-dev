@@ -1,0 +1,171 @@
+{
+  "name": "Mohammed Rashid",
+  "headline": "Computer Science Student | Software Engineering | AI/ML | Data Analytics",
+  "location": "Cyberjaya, Selangor, Malaysia",
+  "summary": "Motivated Computer Science student building impactful software in software engineering, misinformation detection, machine learning, and data analytics. Passionate about creating real-world solutions with Java, Python, Power BI, and full-stack technologies.",
+  "focus": [
+    "Software Engineering",
+    "Java Development",
+    "Machine Learning",
+    "Data Analytics",
+    "Full-Stack Web Development"
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "R (Basic)",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "frameworks_tools": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Express.js",
+      "Node.js",
+      "Drizzle ORM",
+      "JavaFX",
+      "Maven",
+      "Streamlit",
+      "Power BI",
+      "Power Query",
+      "DAX",
+      "Git",
+      "GitHub",
+      "MySQL",
+      "SQLite",
+      "Docker",
+      "Scikit-learn",
+      "XGBoost",
+      "Pandas",
+      "SHAP"
+    ],
+    "concepts": [
+      "Software Engineering",
+      "REST APIs",
+      "Machine Learning",
+      "Data Modelling",
+      "Data Structures",
+      "Problem Solving",
+      "Responsive UI",
+      "Database Systems",
+      "Model Evaluation",
+      "Feature Engineering"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Truth-Ledger: Misinformation Detection System",
+      "type": "Hackathon / Full-Stack Project",
+      "tagline": "A full-stack fact-checking application that detects fake news and misinformation using rule-based detection and machine learning models.",
+      "highlights": [
+        "Content verification for articles and URLs",
+        "Hybrid detection using rules and machine learning",
+        "Per-item verification management",
+        "REST API with real-time operations",
+        "Responsive mobile and desktop UI",
+        "Docker-ready and Render deployable"
+      ],
+      "tech": [
+        "React 18",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "React Query",
+        "Express.js",
+        "Drizzle ORM",
+        "SQLite",
+        "Node.js",
+        "Docker"
+      ],
+      "live_demo": "https://fact-check-fgi6.onrender.com/",
+      "repo": "https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition"
+    },
+    {
+      "name": "Diabetes Risk Prediction System",
+      "type": "Personal Machine Learning Project",
+      "tagline": "An end-to-end machine learning application for diabetes risk assessment using clinical indicators and explainable AI.",
+      "highlights": [
+        "Built an end-to-end ML pipeline for diabetes risk prediction",
+        "Achieved 85% accuracy and ROC-AUC of 0.85",
+        "Engineered features from glucose, BMI, and blood pressure data",
+        "Developed a production-ready Streamlit web application",
+        "Added bilingual interface support (English/Malay)",
+        "Implemented SHAP explainability for feature importance"
+      ],
+      "tech": [
+        "Python",
+        "Scikit-learn",
+        "XGBoost",
+        "Pandas",
+        "Streamlit",
+        "SHAP",
+        "Git"
+      ],
+      "live_demo": "https://rashid-diabetes-prediction-xgboost.streamlit.app/",
+      "repo": "https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost.git"
+    },
+    {
+      "name": "LiftUp — Social Protection & Livelihoods App",
+      "type": "Java Project",
+      "tagline": "A desktop application designed to match beneficiaries with livelihood opportunities through intelligent workflows and analytics.",
+      "highlights": [
+        "Skills-based opportunity matching",
+        "Analytics dashboards and CSV export",
+        "Improved UX with theming and keyboard shortcuts",
+        "Auto-save and overlay-based interactions",
+        "Cross-platform packaging"
+      ],
+      "tech": [
+        "Java 17",
+        "JavaFX 21",
+        "Maven",
+        "Gson",
+        "Ikonli"
+      ],
+      "repo": "https://github.com/rashidriyadh714-dev/liftup-application"
+    },
+    {
+      "name": "Foodpanda Analysis Dashboard",
+      "type": "Power BI Project",
+      "tagline": "A data-driven business intelligence dashboard for analyzing delivery performance, revenue, customer behaviour, and operational trends.",
+      "highlights": [
+        "3-page Power BI dashboard",
+        "6,000+ row real-world dataset",
+        "20+ DAX measures",
+        "Trend, churn, and revenue analysis",
+        "Interactive drill-downs and what-if modelling"
+      ],
+      "tech": [
+        "Power BI",
+        "Power Query",
+        "DAX",
+        "Data Modelling",
+        "GitHub"
+      ],
+      "repo": "https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-"
+    }
+  ],
+  "achievements": [
+    "3rd Place — CityU FusionX Hackathon",
+    "Dean’s List Award",
+    "AWS / Google / Kaggle / Cisco Certifications"
+  ],
+  "branding": {
+    "keywords": [
+      "Impactful Software",
+      "AI/ML Builder",
+      "Full-Stack Developer",
+      "Java Developer",
+      "Data-Driven Solutions"
+    ]
+  },
+  "links": {
+    "github": "https://github.com/rashidriyadh714-dev",
+    "linkedin": "https://www.linkedin.com/in/rashid-riyadh",
+  }
+}
