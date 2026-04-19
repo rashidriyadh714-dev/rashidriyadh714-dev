@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Mohammed Rashid GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Mohammed Rashid 👋</h1>
 <h3 align="center">Computer Science Student | Software Engineering | AI/ML | Data Analytics</h3>
 
@@ -7,15 +11,18 @@
 
 <p align="center">
   <a href="https://github.com/rashidriyadh714-dev">
-    <img src="https://img.shields.io/badge/GitHub-rashidriyadh714--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-rashidriyadh714--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/rashid-riyadh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+</p>
+
+---
 
 ## 🚀 About Me
 
-I’m a **Computer Science student based in Malaysia** with strong interest in:
+I'm a **Computer Science student based in Malaysia** with strong interests in:
 
 - **Software Engineering**
 - **Java Development**
@@ -40,36 +47,36 @@ I enjoy building projects that solve **real-world problems**, especially in area
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-0B5C8E?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0C4B8E?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MySQL-0B5C8E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-0C4B8E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ### Machine Learning & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SHAP-7B1FA2?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge" alt="Power Query" />
 </p>
 
 ---
@@ -109,8 +116,8 @@ React 18, TypeScript, Vite, Tailwind CSS, React Query, Express.js, Drizzle ORM, 
 **Tech Stack**  
 Python, Scikit-learn, XGBoost, Pandas, Streamlit, SHAP, Git
 
-🔗 **Live Demo:** [diabetes-prediction-xgboost]( "https://rashid-diabetes-prediction-xgboost.streamlit.app/)  
-📂 **Repository:** [diabetes-prediction-xgboost](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost.git)
+🔗 **Live Demo:** [diabetes-prediction-xgboost](https://rashid-diabetes-prediction-xgboost.streamlit.app/)  
+📂 **Repository:** [diabetes-prediction-xgboost](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost)
 
 ---
 
@@ -168,7 +175,7 @@ Power BI, Power Query, DAX, Data Modelling, GitHub
 ## 🤝 Let’s Connect
 
 - GitHub: [rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
-- LinkedIn: [rashid-riyadh](https://www.linkedin.com/in/rashid-riyadh)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
 
 ---
 
