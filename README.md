@@ -13,7 +13,7 @@
   <a href="https://github.com/rashidriyadh714-dev">
     <img src="https://img.shields.io/badge/GitHub-rashidriyadh714--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="https://www.linkedin.com/in/rashid-riyadh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
@@ -175,7 +175,7 @@ Power BI, Power Query, DAX, Data Modelling, GitHub
 ## 🤝 Let’s Connect
 
 - GitHub: [rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rashid-riyadh)
 
 ---
 
