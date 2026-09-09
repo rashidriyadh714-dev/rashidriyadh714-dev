@@ -35,7 +35,7 @@
 I'm a **Computer Science student based in Malaysia** with strong interests in:
 
 - **Software Engineering**
-- **Java Development**
+- **Python Development**
 - **Machine Learning**
 - **Data Analytics**
 
