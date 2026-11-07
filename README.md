@@ -1,31 +1,26 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="assets/banner.png" alt="Mohammed Rashid Banner" width="100%" />
-
-<br/><br/>
-
-<!-- Dynamic Typing SVG Headline -->
+<!-- Animated Header -->
 <a href="https://github.com/rashidriyadh714-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1500&color=818CF8&center=true&vCenter=true&width=750&height=45&lines=Hi%2C+I'm+Mohammed+Rashid+%F0%9F%91%8B;AI+Researcher+%26+Deep+Learning+Builder;Accepted+Author+%40+BMVC+2026+(CORE+A);Lead+Developer+%40+ActionLayer+(Shipaton+'26);Final-Year+CS+Student+%40+City+University+Malaysia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=MOHAMMED+RASHID;AI+Researcher+%26+Deep+Learning+Builder;Accepted+Author+%40+BMVC+2026+(CORE+A);Lead+Developer+%40+ActionLayer+(Shipaton+'26)" alt="Mohammed Rashid" />
 </a>
 
 <p align="center">
-  <b>Bridging Multimodal Deep Learning Research with Deterministic Agentic Systems</b><br>
-  <i>City University Malaysia &bull; Research Collaboration with Sunway University</i>
+  <b>Final-Year Computer Science (Software Engineering) &bull; City University Malaysia</b><br>
+  <i>Academic Research Collaboration in Multimodal Learning with Sunway University</i>
 </p>
 
-<!-- Live Status Pill -->
+<!-- Live Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Open_to_AI_Research_&_MLE_Roles-10B981?style=flat-square&logo=target&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-🟢_AVAILABLE_FOR_AI_RESEARCH_&_MLE_ROLES-10B981?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Academic_Standing-Dean's_List_(GPA_3.78%2F4.00)-6366F1?style=flat-square&logo=academia&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/HONOR-DEAN'S_LIST_AWARD-6366F1?style=flat-square" alt="Dean's List" />
 </p>
 
-<!-- Sleek Nav Badges -->
+<!-- Navigation Badges -->
 <p align="center">
   <a href="https://bmvc2026.bmva.org/programme/accepted_papers/">
-    <img src="https://img.shields.io/badge/BMVC_2026-Accepted_Paper_(%23715)-4C1D95?style=for-the-badge&logo=arxiv&logoColor=white" alt="BMVC" />
+    <img src="https://img.shields.io/badge/BMVC_2026-Accepted_Paper_(%23715)-4C1D95?style=for-the-badge&logo=arxiv&logoColor=white" alt="BMVC 2026" />
   </a>
   <a href="https://arxiv.org/abs/2608.23923">
     <img src="https://img.shields.io/badge/arXiv-2608.23923-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" />
@@ -34,10 +29,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/mohrashid">
-    <img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
   <a href="https://www.kaggle.com/mohammedrashid714">
-    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
@@ -45,48 +40,75 @@
 
 ---
 
-### 🔬 Peer-Reviewed Research & Preprints
+### 💻 System Terminal
+
+```bash
+$ neofetch --profile rashid
+---------------------------
+OS        : Linux / macOS / Cloud Edge
+Focus     : Multimodal Deep Learning, Computer Vision & Agentic AI
+Research  : BMVC 2026 Accepted Author (CORE A) | arXiv:2608.23923
+Systems   : ActionLayer (Shipaton '26) | Truth-Ledger | UniNexus AI
+Stack     : PyTorch, CUDA, SegFormer, SAHI, Python, Docker, React, Power BI
+Motto     : "Build solutions that matter. Make software verifiable, intelligent, and robust."
+```
+
+---
+
+### 📊 Research & Key Highlights
+
+<div align="center">
+
+| 🏆 Top Milestone | 🔬 Focus Area | 🚀 Flagship Project | 💡 Venture |
+| :---: | :---: | :---: | :---: |
+| **BMVC 2026 Accepted**<br><sub>Main Conference (#715)</sub> | **Multimodal AI & Vision**<br><sub>PyTorch, RoBERTa, SegFormer</sub> | **ActionLayer**<br><sub>Shipaton '26 Lead Developer</sub> | **Cradle Fund Malaysia**<br><sub>Selected Startup Pitch</sub> |
+
+</div>
+
+---
+
+### 🔬 Publications & Research Papers
 
 <table width="100%">
   <tr>
-    <td width="70%">
+    <td width="72%">
       <b>MEIA: Reliability-Aware Multimodal Learning for Joint Emotion, Intention, and Action Recognition</b><br>
-      <i>Accepted to the British Machine Vision Conference (BMVC 2026) &bull; Main Conference (#715)</i><br>
-      <small>Novel multimodal deep learning framework jointly modeling visual representations, contextual RoBERTa text embeddings, and behavior dynamics.</small><br>
-      <code>PyTorch</code> <code>CUDA 12.6</code> <code>Multimodal Fusion</code> <code>RoBERTa</code>
+      <i>British Machine Vision Conference (BMVC 2026) &bull; Main Conference (#715)</i><br>
+      <small>Engineered a multimodal deep learning framework jointly modeling visual backbones, contextual RoBERTa textual representations, and behavioral cues with automated validation to prevent data leakage.</small><br>
+      <code>PyTorch</code> <code>CUDA 12.6</code> <code>Multimodal Learning</code> <code>RoBERTa</code>
     </td>
-    <td width="30%" align="center">
+    <td width="28%" align="center">
       <a href="https://bmvc2026.bmva.org/programme/accepted_papers/">
         <img src="https://img.shields.io/badge/BMVC_2026-Paper-4C1D95?style=flat-square" alt="BMVC" />
-      </a><br/>
+      </a><br/><br/>
       <a href="https://github.com/rashidriyadh714-dev/MEIA-Framework">
-        <img src="https://img.shields.io/badge/Code-MEIA--Framework-blue?style=flat-square&logo=github" alt="Code" />
+        <img src="https://img.shields.io/badge/Code-MEIA--Framework-2563EB?style=flat-square&logo=github&logoColor=white" alt="Code" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="70%">
+    <td width="72%">
       <b>ROI-Gated SAHI: Content-Adaptive Slicing-Based Inference for Efficient Object Detection</b><br>
-      <i>Submitted to IEEE Open Journal of the Computer Society (OJ-CS) &bull; Under Review</i><br>
-      <small>Content-adaptive slicing algorithm reducing redundant slice computation in high-resolution inference.</small><br>
+      <i>Under Review at IEEE Open Journal of the Computer Society (OJ-CS)</i><br>
+      <small>Content-adaptive slicing algorithm reducing redundant slice computation during small object detection on ultra high-resolution imagery.</small><br>
       <code>Computer Vision</code> <code>SAHI</code> <code>Object Detection</code> <code>Edge Inference</code>
     </td>
-    <td width="30%" align="center">
+    <td width="28%" align="center">
       <a href="https://arxiv.org/abs/2608.23923">
         <img src="https://img.shields.io/badge/arXiv-2608.23923-B31B1B?style=flat-square" alt="arXiv" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="70%">
-      <b>Transformer-Based Semantic Segmentation for Road Surface Damage & Severity Interpretation</b><br>
+    <td width="72%">
+      <b>Transformer-Based Semantic Segmentation for Road Surface Damage Detection</b><br>
       <i>Future Cities Conference (FCC 2026) &bull; Accepted & Presented</i><br>
-      <small>Fine-tuned SegFormer-B2 pipeline across 4,300+ image-mask pairs achieving 0.79 mIoU.</small><br>
+      <small>Fine-tuned SegFormer-B2 pipeline across 4,300+ image-mask pairs achieving high-accuracy automated road distress segmentation.</small><br>
       <code>SegFormer-B2</code> <code>Semantic Segmentation</code> <code>Deep Learning</code>
     </td>
-    <td width="30%" align="center">
+    <td width="28%" align="center">
       <a href="https://lnkd.in/p/geDwqCZk">
-        <img src="https://img.shields.io/badge/LinkedIn-Presentation-0A66C2?style=flat-square&logo=linkedin" alt="Presentation" />
+        <img src="https://img.shields.io/badge/LinkedIn-Presentation-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Presentation" />
       </a>
     </td>
   </tr>
@@ -94,18 +116,18 @@
 
 ---
 
-### 🚀 Featured Engineering & Systems
+### 🚀 Production & Competition Systems
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/rashidriyadh714-dev/Hackathon_Competeion">ActionLayer</a></h3>
-      <p><b>Autonomous Opportunity Execution Agent & Action Compiler</b></p>
+      <h3>⚡ <a href="https://github.com/rashidriyadh714-dev/Hackathon_Competeion">ActionLayer</a></h3>
+      <p><b>Source-Grounded Agentic Workflow Compiler</b></p>
       <p><i>Shipaton 2026 Next Gen Award Submission &bull; Lead Developer</i></p>
       <ul>
-        <li>Compiles complex hackathon briefs & grants into deterministic Directed Acyclic Graphs (DAGs).</li>
-        <li>Eliminates hallucinations with strict source grounding and human-in-the-loop validation gates.</li>
-        <li>Containerized monorepo with Docker Compose and pnpm.</li>
+        <li>Transforms unstructured competition briefs and PDFs into deterministic <b>Directed Acyclic Graphs (DAGs)</b>.</li>
+        <li>Eliminates LLM hallucinations with strict source grounding and human-in-the-loop validation checkpoints.</li>
+        <li>Modular monorepo architecture with Docker Compose and pnpm.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -115,18 +137,18 @@
       <p><a href="https://github.com/rashidriyadh714-dev/Hackathon_Competeion"><b>View Repository &rarr;</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition">Truth-Ledger</a></h3>
-      <p><b>Misinformation Detection & Verification System</b></p>
-      <p><i>Full-Stack Hybrid Fact-Checking Web Application</i></p>
+      <h3>🛡️ <a href="https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition">Truth-Ledger</a></h3>
+      <p><b>Full-Stack Misinformation Detection System</b></p>
+      <p><i>Hybrid Fact-Checking Web Application</i></p>
       <ul>
-        <li>Hybrid verification engine combining heuristics with local and hosted transformer models.</li>
-        <li>Full REST API suite with live per-item claim verification and reactive UI.</li>
-        <li>Production deployment ready on Render with Docker.</li>
+        <li>Hybrid verification pipeline pairing heuristic rules with local and hosted transformer models.</li>
+        <li>Real-time REST API suite for per-claim inspection, validation history, and evidence tracking.</li>
+        <li>Live containerized cloud deployment on Render.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <p>
         <a href="https://fact-check-fgi6.onrender.com/"><b>Live Demo</b></a> &bull; 
@@ -136,17 +158,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">📊 <a href="https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-">Foodpanda BI Suite</a></h3>
-      <p><b>Commercial Analytics & Predictive Operations Dashboard</b></p>
-      <p><i>Real-world dataset with 6,000+ delivery records</i></p>
+      <h3>📊 <a href="https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-">Foodpanda BI Suite</a></h3>
+      <p><b>Commercial Analytics & KPI Modeling Dashboard</b></p>
+      <p><i>Real-world dataset of 6,000+ commercial food delivery orders</i></p>
       <ul>
-        <li>Built 30+ custom DAX measures for churn analysis, customer retention, and fleet SLAs.</li>
-        <li>Interactive what-if scenario modelling, drill-down hierarchies, and executive KPI summaries.</li>
+        <li>Authored 30+ custom DAX measures for churn forecasting, fleet delivery KPIs, and revenue performance.</li>
+        <li>Built interactive what-if scenarios, dynamic slicers, and drill-down hierarchies.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power_Query-2B579A?style=flat-square" />
+        <img src="https://img.shields.io/badge/DAX-Analytics-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Modeling-Clean-green?style=flat-square" />
       </p>
       <p>
         <a href="https://lnkd.in/p/gbCqcifz"><b>LinkedIn Demo</b></a> &bull; 
@@ -154,16 +176,16 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🩺 <a href="https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost">Diabetes Risk Predictor</a></h3>
-      <p><b>Explainable Clinical Assessment Machine Learning System</b></p>
-      <p><i>Streamlit web deployment with SHAP interpretability</i></p>
+      <h3>🩺 <a href="https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost">Diabetes Risk Predictor</a></h3>
+      <p><b>Explainable Clinical Risk Assessment System</b></p>
+      <p><i>Machine learning pipeline with SHAP interpretability</i></p>
       <ul>
-        <li>Trained on clinical health parameters using XGBoost, achieving <b>85% accuracy</b> and <b>0.85 ROC-AUC</b>.</li>
-        <li>Features bilingual (English/Malay) interface with visual feature importance analysis.</li>
+        <li>Trained on clinical health indicators with XGBoost (0.85 ROC-AUC).</li>
+        <li>Features interactive SHAP feature importance attribution and a bilingual (English/Malay) UI.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" />
-        <img src="https://img.shields.io/badge/SHAP-7B1FA2?style=flat-square" />
+        <img src="https://img.shields.io/badge/XGBoost-ML-EC6B23?style=flat-square" />
+        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-7B1FA2?style=flat-square" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
       <p>
@@ -176,44 +198,40 @@
 
 ---
 
-### 🛠️ Technical Competency
-
-```ascii
-[Deep Learning & Vision]   PyTorch  ·  CUDA 12.6  ·  SegFormer  ·  SAHI  ·  Hugging Face  ·  Scikit-Learn  ·  XGBoost
-[Systems & Architecture]   Docker  ·  REST APIs  ·  Node.js/Express  ·  React  ·  Fastify  ·  Git/GitHub
-[Core Languages]          Python (Primary)  ·  Java  ·  SQL  ·  TypeScript  ·  R
-[Data & Analytics]        Power BI (DAX, Power Query)  ·  Pandas  ·  NumPy  ·  Apache Spark
-```
-
----
-
-### 🏆 Key Milestones & Honors
-
-- 🥇 **Accepted Paper (Main Conference)** &bull; *British Machine Vision Conference (BMVC 2026)* — CORE A Tier.
-- 💡 **Idea Pitch Selected** &bull; *Cradle Fund Malaysia* — Multilingual AI prototype ([Pitch](https://lnkd.in/p/gQNvXDAg) &bull; [Demo](https://lnkd.in/p/ghVBiT9R)).
-- 🇲🇾 **National Finalist** &bull; *Huawei ICT Competition 2025 (Malaysia)*.
-- 🥉 **3rd Place Winner** &bull; *CityU FusionX Hackathon*.
-- 🎖️ **Dean's List Award** &bull; *City University Malaysia* (CGPA: 3.78/4.00).
-
----
-
-### 📈 GitHub Analytics
+### 🛠️ Technical Matrix
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashidriyadh714-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidriyadh714-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Deep Learning & Vision** | `PyTorch` &bull; `CUDA 12.6` &bull; `Hugging Face Transformers` &bull; `SegFormer-B2` &bull; `SAHI` &bull; `Scikit-learn` &bull; `XGBoost` &bull; `SHAP` |
+| **Languages** | `Python (Primary)` &bull; `Java` &bull; `SQL` &bull; `TypeScript` &bull; `JavaScript` &bull; `R` |
+| **Systems & Prototyping** | `Docker` &bull; `RESTful APIs` &bull; `React` &bull; `Node.js` &bull; `Express` &bull; `Git` &bull; `GitHub Actions` |
+| **Data & BI Analytics** | `Power BI` &bull; `DAX` &bull; `Power Query` &bull; `Pandas` &bull; `NumPy` &bull; `Apache Spark` |
+
 </div>
 
 ---
 
+### 🏆 Honors & Recognitions
+
+- 🥇 **Accepted Paper Author** &bull; *British Machine Vision Conference (BMVC 2026)* — CORE A Tier.
+- 💡 **Idea Pitch Selected** &bull; *Cradle Fund Malaysia* — Multilingual AI prototype ([Pitch](https://lnkd.in/p/gQNvXDAg) &bull; [Demo](https://lnkd.in/p/ghVBiT9R)).
+- 🇲🇾 **National Finalist** &bull; *Huawei ICT Competition 2025 (Malaysia)*.
+- 🥉 **3rd Place Winner** &bull; *CityU FusionX Hackathon*.
+- 🎖️ **Dean's List Recognition** &bull; *City University Malaysia*.
+
+---
+
 <div align="center">
-  <p><b>Let's build intelligent, grounded software that matters.</b></p>
+  <h3>🤝 Let's Connect & Collaborate</h3>
+  <p>Interested in multimodal AI, computer vision research, or agentic applications? Let's talk.</p>
+  
   <a href="https://www.linkedin.com/in/rashid-riyadh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:rashidriyadh714@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
