@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Consolas,'Fira Code',monospace" width="985px" height="540px" font-size="14.5px">
+<style>
+  .key { fill: #F59E0B; font-weight: 600; }
+  .val { fill: #A5D6FF; }
+  .accent { fill: #38BDF8; }
+  .green { fill: #34D399; font-weight: 600; }
+  .purple { fill: #C084FC; }
+  .dots { fill: #484F58; }
+  .comment { fill: #8B949E; }
+  .ascii { fill: #E6EDF3; }
+  text, tspan { white-space: pre; }
+</style>
+
+<!-- Terminal Window Background -->
+<rect width="985px" height="540px" fill="#0D1117" stroke="#30363D" stroke-width="1.5" rx="14"/>
+
+<!-- Terminal Titlebar -->
+<rect width="985px" height="34px" fill="#161B22" rx="14"/>
+<rect y="20px" width="985px" height="14px" fill="#161B22"/>
+<line x1="0" y1="34" x2="985" y2="34" stroke="#30363D" stroke-width="1"/>
+
+<!-- Window Controls (macOS style) -->
+<circle cx="22" cy="17" r="5.5" fill="#FF5F56" stroke="#E0443E" stroke-width="0.5"/>
+<circle cx="39" cy="17" r="5.5" fill="#FFBD2E" stroke="#DEA123" stroke-width="0.5"/>
+<circle cx="56" cy="17" r="5.5" fill="#27C93F" stroke="#1AAB29" stroke-width="0.5"/>
+
+<!-- Title -->
+<text x="492" y="22" fill="#8B949E" font-size="12px" font-weight="600" text-anchor="middle">rashid@riyadh-ai-terminal: ~</text>
+
+<!-- Left Side: ASCII Portrait -->
+<text x="18" y="58" class="ascii">
+<tspan x="18" y="58">               ',,,'                      </tspan>
+<tspan x="18" y="77">            ',::;:!=;' '!...  .           </tspan>
+<tspan x="18" y="97">           '. .'...:=i;;:!l~~==~          </tspan>
+<tspan x="18" y="116">       .            .    .,,i=!l~         </tspan>
+<tspan x="18" y="136">                               .!.'.      </tspan>
+<tspan x="18" y="155">             ,=+nzpbpqpdbkdx.   . '.      </tspan>
+<tspan x="18" y="175">           'ivhM8@$$$$$$$$$$8v..',;       </tspan>
+<tspan x="18" y="194">          ,!ichM8@@@@@@@@@@@$$c' '!       </tspan>
+<tspan x="18" y="214">          ,~xq#B$$$$$$$$$$$$$$o .:;       </tspan>
+<tspan x="18" y="233">         .:+vqdo#8@B@@%&amp;M#*W&amp;#W~ '.       </tspan>
+<tspan x="18" y="253">        . ..,!,  ,la@Mx:'!cb*boM          </tspan>
+<tspan x="18" y="272">       .,   ',!+. :M$@Mz=:!qck%$+cw       </tspan>
+<tspan x="18" y="292">    .' '!:,;=+cpz!cB@@$$8##%B@@@aW8=      </tspan>
+<tspan x="18" y="311">    ,; ,~nd#&amp;&amp;W#c+p8$$$$$$$$$$@@*h$~      </tspan>
+<tspan x="18" y="331">    :  ':=ch#&amp;8h~;.'zpzW@@@@@$@$ah@,      </tspan>
+<tspan x="18" y="350">    .,  ,~+cqkawi. ,~',d$$$$@@$BzB&amp;       </tspan>
+<tspan x="18" y="370">     ;,  ,!inn:.   '+: '~xa$$$8q=d;       </tspan>
+<tspan x="18" y="389">           ':' ..'zbko*kn!'W&amp;dl'.         </tspan>
+<tspan x="18" y="409">              .li,;ii+q8$$dxi. '. .,      </tspan>
+<tspan x="18" y="428">               :npc+=p%$$%c.   ax ':'.    </tspan>
+<tspan x="18" y="448">                ,=+nzcakc~   ,a$z :;'.,,  </tspan>
+<tspan x="18" y="467">                      .     +W$a.,!!!:!~!.</tspan>
+<tspan x="18" y="487">                          :vB$*'.~!:;::;,.</tspan>
+<tspan x="18" y="506">                       ,+pM$%h; ,!::::;,.,</tspan>
+</text>
+
+<!-- Right Side: Neofetch Profile Information -->
+<text x="400" y="58" fill="#C9D1D9">
+<tspan x="400" y="58"><tspan fill="#F59E0B" font-weight="bold">rashid@riyadh-ai</tspan><tspan class="dots"> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</tspan></tspan>
+<tspan x="400" y="77"><tspan class="key">OS</tspan><tspan class="dots">: ........................ </tspan><tspan class="val">Linux / macOS / Cloud Edge</tspan></tspan>
+<tspan x="400" y="97"><tspan class="key">Focus</tspan><tspan class="dots">: ..................... </tspan><tspan class="val">Multimodal AI, Vision &amp; Agentic Systems</tspan></tspan>
+<tspan x="400" y="116"><tspan class="key">Research.Main</tspan><tspan class="dots">: ............. </tspan><tspan class="green">BMVC 2026 Accepted (#715) [CORE A]</tspan></tspan>
+<tspan x="400" y="136"><tspan class="key">Research.Preprint</tspan><tspan class="dots">: ......... </tspan><tspan class="accent">arXiv:2608.23923 (IEEE OJ-CS)</tspan></tspan>
+<tspan x="400" y="155"><tspan class="key">Research.Conference</tspan><tspan class="dots">: ....... </tspan><tspan class="purple">Future Cities Conference (FCC 2026)</tspan></tspan>
+<tspan x="400" y="175"><tspan class="key">Systems.Flagship</tspan><tspan class="dots">: .......... </tspan><tspan class="val">ActionLayer (Shipaton &apos;26 Lead Dev)</tspan></tspan>
+<tspan x="400" y="194"><tspan class="key">Systems.FullStack</tspan><tspan class="dots">: ......... </tspan><tspan class="val">Truth-Ledger | UniNexus AI (CityU)</tspan></tspan>
+<tspan x="400" y="214"><tspan class="dots">. </tspan></tspan>
+<tspan x="400" y="233"><tspan class="comment">-- Technical Arsenal ---------------------------------------</tspan></tspan>
+<tspan x="400" y="253"><tspan class="key">Stack.DeepLearning</tspan><tspan class="dots">: ....... </tspan><tspan class="val">PyTorch, CUDA 12.6, SegFormer-B2, SAHI</tspan></tspan>
+<tspan x="400" y="272"><tspan class="key">Stack.NLP&amp;Vision</tspan><tspan class="dots">: ......... </tspan><tspan class="val">Hugging Face Transformers, RoBERTa, SHAP</tspan></tspan>
+<tspan x="400" y="292"><tspan class="key">Stack.Languages</tspan><tspan class="dots">: .......... </tspan><tspan class="val">Python (Primary), Java, SQL, TypeScript, R</tspan></tspan>
+<tspan x="400" y="311"><tspan class="key">Stack.FullStack</tspan><tspan class="dots">: .......... </tspan><tspan class="val">Docker, React, Node.js/Express, REST APIs</tspan></tspan>
+<tspan x="400" y="331"><tspan class="key">Stack.Analytics</tspan><tspan class="dots">: .......... </tspan><tspan class="val">Power BI (DAX, Power Query), Pandas, Spark</tspan></tspan>
+<tspan x="400" y="350"><tspan class="dots">. </tspan></tspan>
+<tspan x="400" y="370"><tspan class="comment">-- Honors &amp; Venture ----------------------------------------</tspan></tspan>
+<tspan x="400" y="389"><tspan class="key">Venture.Pitch</tspan><tspan class="dots">: ............. </tspan><tspan class="val">Cradle Fund Malaysia (Selected AI Pitch)</tspan></tspan>
+<tspan x="400" y="409"><tspan class="key">Honor.Competition</tspan><tspan class="dots">: ......... </tspan><tspan class="val">National Finalist - Huawei ICT 2025</tspan></tspan>
+<tspan x="400" y="428"><tspan class="key">Honor.Hackathon</tspan><tspan class="dots">: ........... </tspan><tspan class="val">3rd Place - CityU FusionX Hackathon</tspan></tspan>
+<tspan x="400" y="448"><tspan class="key">Honor.Academic</tspan><tspan class="dots">: ............ </tspan><tspan class="green">Dean&apos;s List Award</tspan></tspan>
+<tspan x="400" y="467"><tspan class="dots">. </tspan></tspan>
+<tspan x="400" y="487"><tspan class="comment">-- Connect &amp; Collaborate -----------------------------------</tspan></tspan>
+<tspan x="400" y="506"><tspan class="key">LinkedIn</tspan><tspan class="dots">: .................. </tspan><tspan class="accent">linkedin.com/in/rashid-riyadh</tspan></tspan>
+</text>
+</svg>
