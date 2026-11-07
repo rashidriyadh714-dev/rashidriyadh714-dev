@@ -42,7 +42,6 @@
 <p align="center">
   <img src="terminal.svg" alt="Rashid Riyadh Terminal" width="100%" />
 </p>
-
 ---
 
 ## ⚡ Executive Summary
