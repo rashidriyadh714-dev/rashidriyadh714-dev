@@ -40,7 +40,7 @@
 ### 💻 System Terminal
 
 <p align="center">
-  <img src="terminal.svg" alt="Rashid Riyadh Terminal" width="100%" />
+  <img src="https://raw.githubusercontent.com/rashidriyadh714-dev/rashidriyadh714-dev/main/terminal.svg" alt="Rashid Riyadh Terminal" width="100%" />
 </p>
 ---
 
