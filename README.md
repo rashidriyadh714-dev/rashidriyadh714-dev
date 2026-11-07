@@ -1,198 +1,159 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mohammed Rashid GitHub Banner" width="100%" />
+  <img src="assets/banner.png" alt="Mohammed Rashid Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mohammed Rashid 👋</h1>
-<h3 align="center">Computer Science Student | Software Engineering | AI/ML | Data Analytics</h3>
 
 <p align="center">
-  Building impactful software with Java, Python, Machine Learning, Power BI, and full-stack technologies.
+  <b>AI Researcher & Final-Year Computer Science (Software Engineering) Student</b><br>
+  <i>City University Malaysia &bull; Academic Research Collaboration with Sunway University</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rashidriyadh714-dev">
-    <img src="https://img.shields.io/badge/GitHub-rashidriyadh714--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <a href="https://bmvc2026.bmva.org/programme/accepted_papers/">
+    <img src="https://img.shields.io/badge/BMVC%202026-Accepted%20Author%20(%23715)-4C1D95?style=for-the-badge&logo=arxiv&logoColor=white" alt="BMVC 2026" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/rashid-riyadh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <a href="https://arxiv.org/abs/2608.23923">
+    <img src="https://img.shields.io/badge/arXiv-2608.23923-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://huggingface.co/mohrashid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Profile&message=Hugging%20Face&color=FFD21E&labelColor=111827&style=for-the-badge&logo=huggingface&logoColor=black" alt="mohrashid" />
+  <a href="https://www.linkedin.com/in/rashid-riyadh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/mohammedrashid714" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Profile&message=Kaggle&color=20BEFF&labelColor=111827&style=for-the-badge&logo=kaggle&logoColor=white" alt="mohammedrashid714" />
+  <a href="https://huggingface.co/mohrashid">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://www.kaggle.com/mohammedrashid714">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I'm a **Computer Science student based in Malaysia** with strong interests in:
+I am a Computer Science researcher and software builder focused on **multimodal deep learning**, **computer vision**, and **practical AI workflows**:
 
-- **Software Engineering**
-- **Python Development**
-- **Machine Learning**
-- **Data Analytics**
-
-I enjoy building projects that solve **real-world problems**, especially in areas like **misinformation detection**, **health-related machine learning**, **social impact software**, and **business intelligence dashboards**.
+- 🔬 **Research:** Author of an accepted main-conference paper at **BMVC 2026 (CORE A)** and author of preprints on **arXiv** in efficient object detection and semantic segmentation.
+- 🚀 **Product & Prototyping:** Lead developer of **ActionLayer** (submitted for the *Shipaton 2026 Next Gen Award*) and pitched an early-stage multilingual AI prototype to **Cradle Fund Malaysia**.
+- 🎓 **Education:** Final-year B.CompSc (Software Engineering) at **City University Malaysia** (GPA: 3.78/4.00, Dean's List).
+- 🏆 **Competitions:** National Finalist in the **Huawei ICT Competition 2025**; 3rd Place at **CityU FusionX Hackathon**.
 
 ---
 
-## 🧠 Core Strengths
+## 🔬 Publications & Research
 
-- Building **full-stack web applications**
-- Developing **Java desktop applications**
-- Creating **machine learning systems** for practical use cases
-- Designing **interactive dashboards** for decision-making
-- Turning ideas into polished, deployable software products
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-Basic-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/MySQL-0B5C8E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-0C4B8E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Machine Learning & Analytics
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=ML&message=Scikit--learn&color=F7931E&labelColor=111827&style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/static/v1?label=ML&message=XGBoost&color=EC6B23&labelColor=111827&style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/static/v1?label=ML&message=Random%20Forest&color=228B22&labelColor=111827&style=for-the-badge" alt="Random Forest" />
-  <img src="https://img.shields.io/static/v1?label=ML&message=Pandas&color=150458&labelColor=111827&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/static/v1?label=ML&message=SHAP&color=7B1FA2&labelColor=111827&style=for-the-badge" alt="SHAP" />
-  <img src="https://img.shields.io/static/v1?label=BI&message=DAX&color=F2C811&labelColor=111827&style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
-  <img src="https://img.shields.io/static/v1?label=BI&message=Power%20Query&color=2B579A&labelColor=111827&style=for-the-badge" alt="Power Query" />
-  <img src="https://img.shields.io/static/v1?label=Platform&message=Hugging%20Face&color=FFD21E&labelColor=111827&style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/static/v1?label=Platform&message=Kaggle&color=20BEFF&labelColor=111827&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-</p>
+| Venue / Status | Title | Artifacts |
+| :--- | :--- | :--- |
+| **BMVC 2026** *(CORE A)* | **MEIA: Reliability-Aware Multimodal Learning for Joint Emotion, Intention, and Action Recognition** | [📄 Program](https://bmvc2026.bmva.org/programme/accepted_papers/) &bull; [💻 Code](https://github.com/rashidriyadh714-dev/MEIA-Framework) |
+| **IEEE OJ-CS** *(Under Review)* | **ROI-Gated SAHI: Content-Adaptive Slicing-Based Inference for Efficient Object Detection** | [📄 arXiv:2608.23923](https://arxiv.org/abs/2608.23923) |
+| **FCC 2026** *(Presented)* | **Transformer-Based Semantic Segmentation for Road Surface Damage Detection and Image-Based Severity Interpretation** | [🎤 Presentation](https://lnkd.in/p/geDwqCZk) |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1) Truth-Ledger — Misinformation Detection System
-**A full-stack fact-checking application that detects fake news and misinformation using rule-based detection and machine learning models.**
-
-**Highlights**
-- Content verification for articles and URLs
-- Hybrid detection using rules + machine learning
-- Per-item verification management
-- Real-time REST API endpoints
-- Responsive UI for mobile and desktop
-- Docker-ready and deployment-friendly
-
-**Tech Stack**  
-React 18, TypeScript, Vite, Tailwind CSS, React Query, Express.js, Drizzle ORM, SQLite, Node.js, Docker
-
-🔗 **Live Demo:** [fact-check-fgi6.onrender.com](https://fact-check-fgi6.onrender.com/)  
-📂 **Repository:** [Fact-check-application-for-competition](https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition)
+### 1. [ActionLayer — Source-Grounded Agentic Workflow Compiler](https://github.com/rashidriyadh714-dev/Hackathon_Competeion)
+> **Shipaton 2026 Next Gen Award Submission** &bull; *Lead Developer*
+- Transforms unstructured competition briefs, hackathon rules, and grant call PDFs into deterministic **Directed Acyclic Graphs (DAGs)**.
+- Integrates strict source grounding and human-in-the-loop validation checkpoints to eliminate deadline and requirement hallucinations.
+- Structured as a containerized monorepo using **Docker Compose** and **pnpm workspaces**.
+- **Tech Stack:** TypeScript, React, Docker, pnpm, REST APIs
 
 ---
 
-### 2) Diabetes Risk Prediction System
-**An end-to-end machine learning application for diabetes risk assessment using clinical indicators and explainable AI.**
-
-**Highlights**
-- Built an end-to-end ML pipeline for diabetes risk prediction
-- Achieved **85% accuracy** and **ROC-AUC of 0.85**
-- Engineered features from glucose, BMI, and blood pressure data
-- Developed a production-ready **Streamlit** web application
-- Added bilingual support (**English / Malay**)
-- Implemented **SHAP** explainability for feature importance
-
-**Tech Stack**  
-Python, Scikit-learn, XGBoost, Pandas, Streamlit, SHAP, Git
-
-🔗 **Live Demo:** [diabetes-prediction-xgboost](https://rashid-diabetes-prediction-xgboost.streamlit.app/)  
-📂 **Repository:** [diabetes-prediction-xgboost](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost)
+### 2. [MEIA-Framework — Multimodal Deep Learning Platform](https://github.com/rashidriyadh714-dev/MEIA-Framework)
+> **Official Codebase for Accepted BMVC 2026 Paper (#715)**
+- Open-source PyTorch implementation jointly modeling visual embeddings, contextual RoBERTa textual representations, and behavioral cues.
+- Features custom multi-task loss functions, cross-split data leakage verification, and quantitative ablation testing suites.
+- **Tech Stack:** Python, PyTorch, CUDA 12.6, RoBERTa, Hugging Face, Computer Vision
 
 ---
 
-### 3) LiftUp — Social Protection & Livelihoods App
-**A Java-based application focused on matching beneficiaries with livelihood opportunities through intelligent workflows and user-centered design.**
-
-**Highlights**
-- Skills-based matching workflow
-- Analytics dashboards and CSV export
-- Enhanced UX with theming and keyboard shortcuts
-- Auto-save and overlay-based interactions
-- Cross-platform packaging for usability
-
-**Tech Stack**  
-Java 17, JavaFX 21, Maven, Gson, Ikonli
-
-📂 **Repository:** [liftup-application](https://github.com/rashidriyadh714-dev/liftup-application)
+### 3. [Truth-Ledger — Misinformation Detection System](https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition)
+> **Full-Stack Fact-Checking & Fake News Verification Web App**
+- Hybrid verification engine combining rule-based heuristics with local and hosted transformer models.
+- Features per-item verification management, full REST API endpoints, and a responsive mobile-first interface.
+- **Tech Stack:** React 18, TypeScript, Tailwind CSS, Express.js, Drizzle ORM, Docker
+- **Links:** [🌐 Live Demo](https://fact-check-fgi6.onrender.com/) &bull; [📂 Code](https://github.com/rashidriyadh714-dev/Fact-check-application-for-competition)
 
 ---
 
-### 4) Foodpanda Analysis Dashboard
-**A Power BI business intelligence project built to uncover actionable insights from real-world delivery and business performance data.**
-
-**Highlights**
-- 3-page interactive dashboard
-- 6,000+ row dataset analysis
-- 20+ DAX measures
-- Revenue, churn, and delivery performance insights
-- Drill-down hierarchies and what-if modelling
-
-**Tech Stack**  
-Power BI, Power Query, DAX, Data Modelling, GitHub
-
-📂 **Repository:** [Foodpanda Analysis Dataset 2025](https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-)
+### 4. [Foodpanda Operations & Business Intelligence Suite](https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-)
+> **Commercial Analytics & KPI Modeling Dashboard**
+- Interactive 3-page business intelligence dashboard modeling 6,000+ real-world commercial delivery records.
+- Implemented 30+ custom DAX measures for churn probability, revenue forecasts, and fleet delivery times.
+- **Tech Stack:** Power BI, Power Query, DAX, Data Modeling
+- **Links:** [📊 LinkedIn Showcase](https://lnkd.in/p/gbCqcifz) &bull; [📂 Code](https://github.com/rashidriyadh714-dev/Data-Driven-Decision-Making-with-Power-BI-Foodpanda-Analysis-Dataset-2025-)
 
 ---
 
-## 📈 What I’m Focused On
-
-- Building **impact-driven software products**
-- Advancing in **software engineering and system design**
-- Creating practical **AI/ML and analytics solutions**
-- Developing projects that combine **technical depth + real-world value**
-
----
-
-## 🏆 Achievements
-
-- **3rd Place** — CityU FusionX Hackathon
-- **Dean’s List Award**
-- Certifications in **AWS, Google, Kaggle, Cisco, AI, Machine Learning, and Python**
+### 5. [Diabetes Risk Predictor with Explainable AI](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost)
+> **End-to-End Clinical Risk Assessment Web App**
+- Machine learning pipeline utilizing XGBoost, achieving **85% accuracy** and **0.85 ROC-AUC** on clinical data.
+- Incorporates **SHAP** feature importance explainability and a bilingual English-Malay Streamlit interface.
+- **Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Streamlit, SHAP
+- **Links:** [🚀 Live App](https://rashid-diabetes-prediction-xgboost.streamlit.app/) &bull; [📂 Code](https://github.com/rashidriyadh714-dev/diabetes-prediction-xgboost)
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠 Tech Stack
 
-- GitHub: [rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
-- LinkedIn: [rashid-riyadh](https://www.linkedin.com/in/rashid-riyadh)
+### Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### AI, Machine Learning & Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-SegFormer--B2-0284C7?style=for-the-badge" alt="SegFormer" />
+  <img src="https://img.shields.io/badge/Object%20Detection-SAHI-10B981?style=for-the-badge" alt="SAHI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Frameworks, Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
 ---
 
-## 💡 Personal Motto
+## 🏆 Honors & Recognitions
 
-> Build solutions that matter.  
-> Make software useful, intelligent, and meaningful.
+- 🥇 **Accepted Paper Author** &bull; *British Machine Vision Conference (BMVC 2026)* — CORE A International Conference.
+- 💡 **Idea Pitch Selected** &bull; *Cradle Fund Malaysia* — Pitched an early multilingual AI communication system ([Pitch](https://lnkd.in/p/gQNvXDAg) &bull; [Demo](https://lnkd.in/p/ghVBiT9R)).
+- 🇲🇾 **National Finalist** &bull; *Huawei ICT Competition 2025 (Malaysia)*.
+- 🥉 **3rd Place Winner** &bull; *CityU FusionX Hackathon*.
+- 🎖️ **Dean's List Award** &bull; *City University Malaysia* (CGPA: 3.78/4.00).
+
+---
+
+## 📬 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/rashid-riyadh](https://www.linkedin.com/in/rashid-riyadh/)
+- **GitHub:** [github.com/rashidriyadh714-dev](https://github.com/rashidriyadh714-dev)
+- **Hugging Face:** [huggingface.co/mohrashid](https://huggingface.co/mohrashid)
+- **Kaggle:** [kaggle.com/mohammedrashid714](https://www.kaggle.com/mohammedrashid714)
+- **Email:** [rashidriyadh714@gmail.com](mailto:rashidriyadh714@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Build solutions that matter. Make software useful, intelligent, and meaningful."</i>
+</p>
