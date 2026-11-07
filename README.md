@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mohammed Rashid Banner" width="100%" />
+  <img src="assets/banner.png" alt="Rashid Riyadh Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Mohammed Rashid 👋</h1>
+<div align="center">
+
+<!-- Animated "Running Name" Typing SVG -->
+<a href="https://github.com/rashidriyadh714-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=RASHID+RIYADH;AI+Researcher+%26+Deep+Learning+Builder;Accepted+Author+%40+BMVC+2026+(CORE+A);Lead+Developer+%40+ActionLayer+(Shipaton+'26)" alt="Rashid Riyadh" />
+</a>
+
+<h1 align="center">Hi, I'm Rashid Riyadh 👋</h1>
 
 <p align="center">
   <b>AI Researcher &bull; Deep Learning &bull; Autonomous Agentic Systems</b><br>
@@ -27,6 +34,35 @@
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
+
+</div>
+
+---
+
+### 💻 System Terminal
+
+```bash
+$ neofetch --profile rashid-riyadh
+---------------------------------
+OS        : Linux / macOS / Cloud Edge
+Focus     : Multimodal Deep Learning, Computer Vision & Agentic AI
+Research  : BMVC 2026 Accepted Author (CORE A) | arXiv:2608.23923
+Systems   : ActionLayer (Shipaton '26) | Truth-Ledger | UniNexus AI
+Stack     : PyTorch, CUDA, SegFormer, SAHI, Python, Docker, React, Power BI
+Motto     : "Build solutions that matter. Make software verifiable, intelligent, and robust."
+```
+
+---
+
+### 📊 Research & Key Highlights
+
+<div align="center">
+
+| 🏆 Top Milestone | 🔬 Focus Area | 🚀 Flagship Project | 💡 Venture |
+| :---: | :---: | :---: | :---: |
+| **BMVC 2026 Accepted**<br><sub>Main Conference (#715)</sub> | **Multimodal AI & Vision**<br><sub>PyTorch, RoBERTa, SegFormer</sub> | **ActionLayer**<br><sub>Shipaton '26 Lead Developer</sub> | **Cradle Fund Malaysia**<br><sub>Selected Startup Pitch</sub> |
+
+</div>
 
 ---
 
